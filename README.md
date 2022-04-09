@@ -1,10 +1,8 @@
 ## Hi everyone 💜
 
-<div align="center">
-   <a href="https://github.com/rozaliya02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rozaliya02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozaliya02&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   ## GitHub Stats
+   | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rozaliya02&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozaliya02&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
